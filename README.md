@@ -11,7 +11,7 @@
 - **Laptop**: Macbook Air M3
 
 ## 🛠 Stack
-- **Backend**: Python (Django-Rest-Framework, FastAPI), Go
+- **Backend**: Python (Django-Rest-Framework, FastAPI), Go(Gin,GORM)
 - **Databases**: PostgreSQL, T-SQL
 - **Telegram Bots**: Telebot, Aiogram
 - **Other**: Docker, Git, REST-full API, OOP
