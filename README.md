@@ -8,7 +8,7 @@
 
 ## 💻 Setup
 - **Windows PC**: i5-14400, RTX 4070, 32 RAM
-- **Laptop**: Macbook Air M3
+- **Laptop**: Macbook Air M4
 
 ## 🛠 Stack
 - **Backend**: Python (Django-Rest-Framework, FastAPI), Go(Gin,GORM)
