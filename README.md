@@ -11,10 +11,10 @@
 - **Laptop**: Macbook Air M4
 
 ## 🛠 Stack
-- **Backend**: Python (Django-Rest-Framework, FastAPI), Go(Gin,GORM)
+- **Backend**: Python (Django-Rest-Framework, FastAPI), Go (Gin, basic http), C# (.NET)
 - **Databases**: PostgreSQL, T-SQL, MySQL, Redis
-- **Telegram Bots**: Telebot, Aiogram
-- **Other**: Docker, Git, REST-full API, OOP, Error-Handling
+- **Telegram Bots**: Telebot, Aiogram, VK-Teams Bot
+- **Other**: Docker, Git, REST-full API, OOP, Error-Handling, Celery, Kafka
 <!---
 Dewix0/Dewix0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
