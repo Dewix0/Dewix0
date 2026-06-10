@@ -12,9 +12,9 @@
 
 ## 🛠 Stack
 - **Backend**: Python (Django-Rest-Framework, FastAPI), Go (Gin, basic http), C# (.NET)
-- **Databases**: PostgreSQL, T-SQL, MySQL, Redis
+- **Databases**: PostgreSQL, T-SQL, MySQL, Redis, Mongo DB
 - **Telegram Bots**: Telebot, Aiogram, VK-Teams Bot
-- **Other**: Docker, Git, REST-full API, OOP, Error-Handling, Celery, Kafka
+- **Other**: Docker, Git, REST-full API, OOP, Error-Handling, Celery, Kafka, Grafana, Prometheus, Linux, Caddy, Nginx
 <!---
 Dewix0/Dewix0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
